@@ -1,2 +1,2 @@
 # Remember-That-Project
-It Is Pmall Project Just Using HTML & CSS & Js.
+It Is Small Project Just Using HTML & CSS & Js.
